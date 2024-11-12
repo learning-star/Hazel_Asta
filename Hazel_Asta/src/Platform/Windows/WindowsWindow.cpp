@@ -1,5 +1,6 @@
 #include "hzpch.h"
 #include "WindowsWindow.h"
+#include "Hazel/Log.h"
 
 namespace Hazel {
 	
